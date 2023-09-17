@@ -9,7 +9,7 @@ The inspiration behind "ISee: Where AI Meets Vision for the Blind" came from a d
 
 "ISee" is a groundbreaking project that utilizes AI and computer vision technology to empower the blind and visually impaired. It integrates a camera and sonar sensor to perform real-time object detection, identify and read text from objects, and detect exit signs for navigation purposes. The AI processes this information and conveys it through audio instructions, enabling users to navigate their surroundings more effectively and independently.
 
-![IMG_03491](https://github.com/annafy149/ISee-Where-AI-Meets-Vision-for-the-Blind/assets/113755549/0a5639b9-5bf8-4310-bc54-6529a135769c)
+![IMG_03491](https://github.com/annafy149/ISee-Where-AI-Meets-Vision-for-the-Blind/assets/113755549/87489b65-9f5c-498e-b62d-e7e3c59639b7)
 
 
 # How we built it:
