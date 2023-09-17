@@ -1,2 +1,2 @@
-# ISee-Where-AI-Meets-Vision-for-the-Blind
+# ISee
 Where AI Meets Vision for the Blind
