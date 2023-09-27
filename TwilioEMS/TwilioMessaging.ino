@@ -23,7 +23,7 @@ static const char *from_number = "+18556435472";
 
 // You choose!
 // Phone number should start with "+<countrycode>"
-static const char *to_number = "+12673618594";
+static const char *to_number = "+1**********";
 static const char *message = "Potential harm to Mr. X with possible life threatening encounters with temporarily unknown individuals. Please provide Emergency services to the location: 3408 Powelton Avenue APT #1A, Philadelphia, PA 19104. Note: Mr. X is a visually impaired individual with special care and in need of proper professional care in regards to aid the situation.";
 
 Twilio *twilio;
